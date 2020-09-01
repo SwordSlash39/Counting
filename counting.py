@@ -1,10 +1,9 @@
-# Bot code: NzIwMjA3MDUxMjg0MDIxMjkx.XuCnFQ.ZAibhUYqmEC2l3Ah9sA3djtVPkc
 import discord
 
 client = discord.Client()
-token = 'NzIwMjA3MDUxMjg0MDIxMjkx.XuCnFQ.ZAibhUYqmEC2l3Ah9sA3djtVPkc'
+token = '---'
 default_call = '='
-authorised = ['GoldenDNA#1938', 'ylq#9769']
+authorised = []
 num = 16
 txt = ''
 player = ''
